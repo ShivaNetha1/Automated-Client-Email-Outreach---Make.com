@@ -85,17 +85,17 @@ Google Sheets (Lead Data)
 ## 📸 Workflow Screenshots
 
 ### Make.com Scenario — Full Workflow
-> `![Workflow](workflow.jpg)`
+![Workflow](https://raw.githubusercontent.com/ShivaNetha1Make.com/Automated-Client-Email-Outreach---Make.com/main/workflow.jpg)
 
 ---
 
 ### Google Sheets — Lead Data & Email Sent Column
-> `![Google Sheets](gsheet.jpg)`
+![Google Sheets](https://raw.githubusercontent.com/ShivaNetha1Make.com/Automated-Client-Email-Outreach---Make.com/main/gsheet.jpg)
 
 ---
 
 ### Gmail Sent Box — Emails Delivered
-> `![Sent Emails](sent.jpg)`
+![Sent Emails](https://raw.githubusercontent.com/ShivaNetha1Make.com/Automated-Client-Email-Outreach---Make.com/main/sent.jpg)
 
 ---
 
