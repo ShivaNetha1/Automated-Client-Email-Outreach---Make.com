@@ -154,8 +154,8 @@ Google Sheets (Lead Data)
 ## 🔗 Live Demo, Post & .json
 
 - 📝 **LinkedIn Post** — [View the full breakdown on LinkedIn](https://www.linkedin.com/posts/shiva-pandala_makedotcom-automation-nocode-activity-7444633978801651712-l8z-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlEKVMBs6oNyCBicDe1KNIl3bVZiaCEKQM)
-- 💻 **Live Link ** — [Scenario on make.com](https://eu1.make.com/public/shared-scenario/6sY2FsH5hGj/automated-client-email-campaign-media)
-- 📝 **Email Automation Agent.blueprint** -- [.json file to import](refer .json file in the main branch to import directly on make.com, you just need to signin with your credentials where ever required.)
+- 💻 **Live Link** — [Scenario on make.com](https://eu1.make.com/public/shared-scenario/6sY2FsH5hGj/automated-client-email-campaign-media)
+- 📝 **Email Automation Agent.blueprint** — [.json file to import](refer .json file in the main branch to import directly on make.com, you just need to signin with your credentials where ever required.)
 
 ---
 
